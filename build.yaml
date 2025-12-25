@@ -15,5 +15,3 @@
 include:
   - board: nrfmicro_13
     shield: p40v2
-    snippet: studio-rpc-usb-uart
-    shield: settings_reset
