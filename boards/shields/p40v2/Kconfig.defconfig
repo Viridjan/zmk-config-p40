@@ -4,6 +4,6 @@
 if SHIELD_P40V2
 
 config ZMK_KEYBOARD_NAME
-	default "P40v2 ithock"
+	default "P40v2"
 
 endif
